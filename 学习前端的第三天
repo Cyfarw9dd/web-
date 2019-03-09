@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>这是我的简历</title>
+		<style>
+			h1{
+				text-align: center;
+				font-family: "arial narrow";
+				color: black;
+				text-shadow:5px 5px 11px red;
+			}
+			body{
+				background-color: #CCCCCC;
+				color: white;
+				text-align: center;
+			}
+			.box1{
+				border-top: 1px solid white;
+			}
+		</style>
+	</head>
+	<body>
+		<h1 id="title">我是一份简历</h1>
+		<h2>姓名：鲟心</h2>
+		<h3>联系方式：手机：10086；</h3>
+		<h3>邮箱：100086@coc.com</h3><br/>
+		<div class = "box1"></div>
+		<h3>学历：本科（百度前端学院）</h3>
+		<h3>学习经验：Javascript,html/css,C</h3><br/>
+		<h3>立志未来从事网络安全行业</h3>
+		<h3>在1999年参加了中美黑客大战</h3>
+		<div class="box1"></div>
+	</body>
+</html>
